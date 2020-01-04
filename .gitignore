@@ -1,0 +1,12 @@
+.git
+.settings
+capecraft.iml
+bin/
+.idea/
+.metadata/*
+/out/*
+/target/*
+/target/
+*.class
+/lib/
+/.gradle/
